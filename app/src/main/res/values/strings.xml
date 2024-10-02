@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">alumnoApp</string>
+    <string name="consultoriabt">Consultoria</string>
+    <string name="alumnoName">Luis Rodriguez Saavedra</string>
+    <string name="notasbt">Notas</string>
+    <string name="emailbt">Email</string>
+    <string name="ambientbt">Ambiente aprendizaje</string>
+</resources>
